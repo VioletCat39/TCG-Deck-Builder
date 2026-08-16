@@ -1,0 +1,122 @@
+name,g-power,attribute,type,special color,special attack,special rules
+Nillious,500 B,aurelus,hydra,None,None,None
+Hydorous,300 B,darkus2,lion,None,None,None
+Nillious,500 B,darkus2,hydra,None,None,None
+Serpenteze,400 B,darkus2,wyvern,None,None,None
+Turtonium,500 B,aquos2,turtle,None,None,None
+Mantonoid,500 B,haos2,bug,None,None,None
+Pegatrix,500 B,haos2,pegasus,None,None,None
+Dragonoid,200 B,pyrus2,dragon,None,None,None
+Fangzor,400 B,pyrus2,snake,None,None,None
+Fangzor,300 B,ventus2,snake,None,None,None
+Mantonoid,500 B,ventus2,bug,None,None,None
+Serpenteze,300 B,aurelus,wyvern,None,None,None
+Trhyno,300 B,haos2,dino,None,None,None
+Mantonoid,500 B,pyrus2,bug,None,None,None
+Vicerox,600 B,ventus2,crab,None,None,None
+Phaedrus,200 B,aquos2,wyvern,None,None,None
+Garganoid Ultra,300 B,aquos2,gargoyle,None,None,None
+Trox Ultra,800 B,aurelus,dino,None,None,None
+Cyndeous Ultra,300 B,darkus2,warrior,None,None,None
+Krakelios Ultra,600 B,ventus2,squid,None,None,None
+Maxotaur Ultra,100 B,haos2,minotaur,None,None,None
+Fangzor Ultra,400 B,pyrus2,snake,None,None,None
+Nobilious Ultra,500 B,aurelus,griffon,None,None,None
+Batrix Ultra,700 B,haos2,bat,translucent,jumping,bakugear_compatible
+Dragonoid Cubbo,600 B,pyrus2,bear,None,None,None
+Pirate Cubbo,400 B,aquos2,bear,None,None,None
+King Cubbo,300 B,aurelus,bear,None,None,None
+Cowboy Cubbo,500 B,ventus2,bear,None,None,None
+Nillious Cubbo,500 B,darkus2,bear,None,None,None
+Viloch,600 B,aurelus,hydra,None,None,None
+Geoforge Dragonoid,900 B,pyrus2,dragon,metalix,heavy_metal,evolution
+Genesis Warrior Whale,800 B,aquos2,whale,None,None,nano_compatible
+Genesis Pharol,800 B,aurelus,sphinx,None,None,nano_compatible
+Genesis Nillious,700 B,darkus2,hydra,None,None,nano_compatible
+Genesis Trox,600 B,ventus2,dino,None,None,nano_compatible
+Genesis Wrath,500 B,genesis,destruction,None,attribute_dice,nano_compatible
+Genesis Dragonoid,1000 B,genesis,creation,None,attribute_dice,nano_compatible
+Hydranoid x Krakelios,600 B,aquos2,squid and hydra,dual_attribute,None,bakufusion
+Howlkor x Serpenteze Ultra,700 B,darkus2,wyvern and cereberus,dual_attribute,None,bakufusion
+Dragonoid x Tretorous,600 B,haos2,dragon and verias,dual_attribute,None,bakufusion
+Sabra x Pyravian Ultra,700 B,pyrus2,phoenix and hydra,dual_attribute,None,bakufusion
+Gargonoid x Webam,100 B,aquos2,spider and gargoyle,dual_attribute,None,bakufusion
+Cyndeous x Skorporos,700 B,haos2,warrior and scorpion,dual_attribute,None,bakufusion
+Titanium Dragaon,800 G,pyrus3,dragon,None,None,bakubind
+Dual-Wield Razenoid,800 G,darkus3,mechanical hydra,None,None,bakubind
+Trox,850 G,ventus3,dino,None,None,bakubind
+Sirenoid,600 B,darkus3,fish,None,None,bakubind
+Mythic Titanium Dragonoid,750 G,pyrus3,dragon,translucent,None,bakubind
+Mythic Trox,760 G,ventus3,dino,translucent,None,bakubind
+Mythic Sirenoid,700 G,aquos3,fish,translucent,None,bakubind
+Mythic Ghost Beast,800 G,haos3,minotaur,translucent,None,bakubind
+Lockanoid,560 G,ventus,mechanical fiend,None,None,None
+Foxbat,600 G,ventus,mechanical manion,None,None,combo
+Brontes,500 G,ventus,clown,None,None,None
+Alpha Percival,550 G,darkus,dragon warrior,None,None,None
+Hyper Dragonoid,600 G,darkus,dragon,None,None,None
+Midnight Percival,610 G,darkus,dragon warrior,None,None,None
+Hyper Dragonoid,550 G,pyrus,dragon,None,None,None
+Warius,400 G,pyrus,rock,flip,None,None
+Midnight Percival,570 G,haos,dragon warrior,bakucore,None,None
+Nemus,450 G,haos,angel,None,None,None
+Mega Brontes,600 G,haos,clown,None,None,None
+Abis Omega,610 G,aquos,sea serpent,bakucore,None,None
+Spindle,480 G,aquos,mechanical snake,None,None,combo
+Cosmic Ingram,540 G,aquos,bird warrior,None,None,None
+Thunder Wilda,500 G,subterra,rock,bakucore,None,None
+Foxbat,610 G,subterra,mechanical manion,None,None,combo
+Fencer,590 G,subterra,mechanical scorpion,None,None,combo
+Apollonir,500 G,ventus,legendary dragon,None,None,None
+Neo Dragonoid,550 G,pyrus,dragon,None,None,None
+Dual Elfin,540 G,pyrus,sea monster,translucent,attribute_dice,None
+Storm Skyress,500 G,aquos,bird,None,jumping,None
+Limulus,380 G,aquos,bug,None,None,None
+Leefram,500 G,aquos,mechanical serpent,None,None,combo
+Hades,550 G,aquos,mechanical hydra,translucent,None,None
+Percival,410 G,pyrus,dragon warrior,None,None,None
+Limulus,450 G,haos,bug,None,None,None
+Shadow Vulcan,560 G,darkus,rock reaper,translucent,None,None
+Hyper Dragonoid,560 G,clear,dragon,clear,None,None
+Percival,470 G,subterra,dragon warrior,None,None,None
+Scraper,490 G,darkus,mechanical crab,None,None,evo_combo
+Wilda,560 G,darkus,rock,None,None,None
+Alpha Percival,600 G,darkus,dragon warrior,None,None,None
+B1 Juggernoid,400 G,aquos,turtle,None,heavy_metal,None
+B1 Preyas,250 G,darkus,sea monster,None,attribute_dice,None
+B1 Stinglash,510 G,ventus,scorpion,None,None,None
+B1 Centipoid,450 G,ventus,bug,None,None,None
+Pyro Dragonoid,640 G,haos,wyvern,translucent,None,None
+Percival,630 G,aquos,dragon warrior,None,None,None
+Exedra,650 G,aquos,legendary hydra-serpent,None,None,None
+Centipoid,640 G,ventus,bug,None,None,None
+Freezer,740 G,pyrus,squid,solar,None,None
+Abis Omega,730 G,pyrus,sea serpent,bakucore,None,None
+Wilda,700 G,subterra,rock,None,None,None
+Pyro Dragonoid,830 G,pyrus,legendary wyvern,blue,None,None
+Ravenoid,830 G,darkus,legendary raven,blue,None,None
+Fangoid,690 G,subterra,dino,None,None,battle_compatible
+Rubanoid,790 G,darkus,rock dragon,exoskin,None,battle_compatible
+Farakspin,700 G,subterra,bug,None,spin,None
+Lumino Dragonoid,780 G,subterra,dragon,camo,None,battle_compatible
+Hawktor,850 G,ventus,bird,None,None,battle_compatible
+Sky and Gaia Dragonoid,2in1 G,pyrus,dragon,None,sky_gaia,sky_gaia
+Battalix Dragonoid,770 G,pyrus,dragon warrior,None,None,battle_compatible
+Megarus,1180 G,subterra,narwhal,None,None,super_evolution
+Hyper Mantonoid,700 G,pyrus2,bug,None,None,super_evolution
+Hyper Fangzor,400 G,ventus2,snake,None,None,super_evolution
+Hyper Hydorous,400 G,darkus2,lion,None,None,super_evolution
+Hyper Gargonoid,900 G,aquos2,gargoyle,None,None,super_evolution
+Bolcanon,940 G,haos,mechtanium angel,None,spin,evolution
+Cyborg Helios,900 G,darkus,mechanical dragon,metalix,None,synchro
+Helix Dragonoid,900 G,pyrus,mechtanium angel,metalix,None,evolution
+Titanium Dragonoid,800 G,pyrus,mechtanium dragon,metalix,heavy_metal,evolution
+Fusion Dragonoid,890 G,darkus,mechtanium dragon,None,sky_raiders,sky_raiders
+Reptak,850 G,aquos,mechtanium warrior,None,sky_raiders,sky_raiders
+Reptak,870 G,darkus,mechtanium warrior,None,sky_raiders,sky_raiders
+Roxtor,940 G,ventus,mechtanium angel,None,None,synchro
+Balista,850 G,pyrus,mechtanium sea monster,None,None,synchro
+Neo Dragonoid (Hex Dragonoid form),560 G,pyrus,dragon,None,None,vexos_evo
+Cosmic Ingram (Macubass form),540 G,aquos,bird,None,None,vexos_evo
+Foxbat (Aluze form),600 G,ventus,manion,None,None,vexos_evo
+Mercury Dragonoid,750 G,darkus,mechtanium devil,dual_attribute,None,bakumutant

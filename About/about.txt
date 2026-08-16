@@ -1,0 +1,4 @@
+This folder contains different information about each game.
+Please note each card game referrenced is not my property, and each game is property of their respective companies/owners listed in their abotu documents.
+
+Each game's info is placed in its own folder, with different rulesets and other important information.

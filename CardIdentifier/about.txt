@@ -1,0 +1,5 @@
+This module createand identifies cards given a card descriptor. 
+Different csv file examples will be attached to show proper filing with some examples and proper formatting for the given card games.
+
+(I also only really know two card games at the moment: Yugioh and Bakugan, but if I feel like it I may learn Pokemon, Magic, and others and attach template algorithms for deckbuilding here.)
+Each Card Game Template will also always be put in a separate folder with the game name as the folder title.
